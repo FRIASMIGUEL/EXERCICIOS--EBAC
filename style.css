@@ -1,0 +1,10 @@
+h1 {color: rgb(210,30,135);font-style: oblique;  }
+
+a:link,a:visited{color:#a52a2a;test-decoration:nome;}
+
+#wrap {width: 960px;
+       margin:auto; 
+       padding: 10px 20px;
+       background: rgb(255, 223, 82);}  
+
+      
